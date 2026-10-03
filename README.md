@@ -22,7 +22,7 @@ Wazuh Endpoints dashboard confirming that the Windows VM is connected as an agen
 
 
 <p align="center">
-Windows Logon Success Alerts in Wazuh Threat Hunting
+2️⃣ Windows Logon Success Alerts in Wazuh Threat Hunting
 <br/>
 Wazuh Threat Hunting view for the Windows agent, showing 881 events over the last 24 hours.
 <br/>
@@ -30,7 +30,7 @@ Wazuh Threat Hunting view for the Windows agent, showing 881 events over the las
 
 
 <p align="center">
-2️⃣ Successful Logon Alert Details (1/2)
+3️⃣ Successful Logon Alert Details (1/2)
 <br/>
 Expanded view of a Wazuh alert from the Windows agent.
 <br/>
@@ -38,7 +38,7 @@ Expanded view of a Wazuh alert from the Windows agent.
 
 
 <p align="center">
-3️⃣ Successful Logon Alert Details (2/2)
+4️⃣ Successful Logon Alert Details (2/2)
 <br/>
 Expanded view of a Wazuh alert from the Windows agent. 
 <br/>
