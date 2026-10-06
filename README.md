@@ -2,7 +2,7 @@
 Hands-on SOC analyst labs using Wazuh SIEM, Windows, and Kali Linux.
 
 
-<h2>Environemnt</h2>
+<h2>Environment</h2>
 <p align="center">
 OS: Windows 10 (VirtualBox VM)
 <p align="center">
